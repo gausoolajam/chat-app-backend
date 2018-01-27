@@ -1,0 +1,18 @@
+{
+	"local" : {
+		"mysql" : {
+			"port": 3306,
+			"host": "localhost",
+			"user": "root",
+			"pass": "",
+			"schema": "node-lab"
+		},
+		"mongodb": {
+			"host": "localhost",
+			"port": 27017,
+			"dbname": "chatApp",
+			"user": "",
+			"password": ""
+    	}
+	}
+}
